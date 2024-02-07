@@ -8,6 +8,8 @@
 | april_newyorktimes.pkl | Статьи за апрель в New York Times |
 | requirements.txt | Требуемые библиотеки |
 
+## Статья по проекту 
+https://www.notion.so/ds-club-roadmap/e8c40e1cbfd842359ff5a416b973cf68
 
 ## Описание
 
